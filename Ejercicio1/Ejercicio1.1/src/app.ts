@@ -12,7 +12,7 @@ const pitUrl = `${apiUrl}/pit`;
 const driversUrl = `${apiUrl}/drivers`;
 
 const queryParams = {
-    session_key: '9102'
+    session_key: '9102' //Esta sesión pertenece a la carrera de España de 2023
 };
 
 // Construye la cadena de consulta evitando codificar 'speed'
